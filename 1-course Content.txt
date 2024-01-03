@@ -1,0 +1,37 @@
+1) What youl will get in this course
+	-getting through the syllabus of the class
+
+2) syllabus
+
+3) book
+
+4) required software
+
+5) what is the internet
+	-servers are pretty important 
+	-users are called clients
+	-isp will get your address
+	-dns(domain name server) will get your address from your ins  
+	-the dns will look up the ip address of the address given
+
+6) how do websites work
+	
+	-html files are responsible for the content of your website
+	-css file are responsible for the style of your website
+	-js files are used for fuctionality
+	-browser is a piece of software that is specialised in using these type of files
+
+
+
+7) How to Get the Most Out of the Course
+
+8) How to get help when you re stuck
+	-expectation and reality
+	-use the error message
+	-use the Q&a section
+		-what did you expect
+		-what happened
+		-scrennshot your code
+		-the debug part of it
+
+9) pathfinder
