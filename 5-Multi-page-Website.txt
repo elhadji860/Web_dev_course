@@ -1,0 +1,22 @@
+1) computer file paths
+	-./ : current directory
+
+2) what are webpages
+	
+3)the html boilerplate
+ 	<!DOCTYPE htmll>
+	<html lang ="en" >
+		<head>
+		invisible impotant information
+		<meta charset = "UTF-8">	
+		<title></title>
+		</head>
+		<body> 
+		</body>
+
+	</html>
+
+	-in vscode a ! can be used as a shortcut
+
+4)introduction to capstone project
+	Traduit de l'anglais-Un cours de synthèse , également connu sous le nom de projet de synthèse et de synthèse , entre autres termes, est un projet qui sert d'expérience de pratique culminante et généralement intégrative d'un programme éducatif que l'on trouve principalement dans la pédagogie de style américain.

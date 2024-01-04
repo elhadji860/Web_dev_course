@@ -1,0 +1,28 @@
+1)what is html
+	-html is any browser
+	-it defines the content and the structure of a website
+	-HTML(hypperText Markup Language)
+	-hyppertext for bearibg links to other websites
+	-mark ups for indications
+	-html uses tags
+
+2)how to download the course ressources
+	-go to the ressources section
+
+3) the heading Element
+	-example : <h1> text </h1>
+	- everything int "<>" is called a tag
+	-<h1> text </h1> is called an element 
+	-is not good practice to have more than h1
+	- dont skip a level
+
+4)html paragraph
+	-<p> this is a paragraph </p>
+	-People use lorem ipsum for testing
+	-bacon ipsum is an alternative/ bro ipsum
+
+5) void element
+	-<hr/> : create a horizontal line
+	-<br/> : permet de revenir a la ligne
+	- dont use a breaking element instead of a paragraph
+	- <br> and <hr> are accepted versions

@@ -1,0 +1,19 @@
+1) the list elements
+	-<ul></ul> : an unordered list
+	-<li> : list items
+	-<ol></ol> : ordered list
+
+2) nesting and indentation
+
+3)anchor elements
+	-<a href = link> this an anchor element</a>
+	-tags can have attributes
+	-there are 2 types of attributes : locals and globals
+	- one of the attribut of the ol is start
+
+4)image elements
+	-<img src = url />
+	-source example pigsum
+	-you can change the size by adding it after the last / 
+	-alt = "" : alternative text description
+
