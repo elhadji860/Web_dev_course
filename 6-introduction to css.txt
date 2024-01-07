@@ -9,3 +9,13 @@
 	-selector (to specifie the element that we need)
 	-external 
 
+3) selectors
+	-they re used to choose the part of the html code that will be modified
+	-element selector : element{} 
+	-classs selector : .class {}
+	-<tag class = "class name> </tag>
+	-# id selector
+	-<tag id = "class name> </tag>
+	-id is for 1 element, class can be used for differernt element
+	-attribute selector : element[attribute]{css code}
+	-universal selector : *{css code}
