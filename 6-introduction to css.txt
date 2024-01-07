@@ -1,0 +1,11 @@
+1) what is css 
+	-cascading style sheet
+	-style sheet is a type of language 
+2) how to add css
+	-inline, internal, external 
+	-inline : same line as an element
+	-css breakdow = background : property 
+	-internal <style> html {css code} < /style >
+	-selector (to specifie the element that we need)
+	-external 
+
