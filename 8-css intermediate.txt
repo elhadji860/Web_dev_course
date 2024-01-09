@@ -1,0 +1,14 @@
+1) the css cascade
+	-the most specific will be retained for the rule applications
+	-the last element listed will be applied
+	-external - internal - inline
+	-!important key word 
+
+2) combining selectors
+	-group selector : selectro , selctor  {css code }
+	-parent child  : selector > selector {css code}
+	-descendant : selector selector {}
+	-chaining selectors: sele ctorselector{}
+
+3)css positioning 
+	-static : 

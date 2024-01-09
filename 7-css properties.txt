@@ -1,2 +1,18 @@
 1) css colors
 	-
+2)font propeties
+	-font size : point(used in word), pixel, em(100%parent), rem (100% html), name font size
+	-font weght : bold, normal, number, lighter, bolder
+	-font family : polices, police generic
+	-you can use google fonts to get new font fsmilys
+	- text-align
+
+3)css inspection
+
+4)the box model
+	-border propertie  : thichnes, style, color
+	-border-widht : clockwise evolution
+	-padding properties : size
+	-margin : size
+	-div element to regroup elements 
+	-you can use pourcentages of the parent to use 
