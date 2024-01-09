@@ -11,4 +11,8 @@
 	-chaining selectors: sele ctorselector{}
 
 3)css positioning 
-	-static : 
+	-static : default pos (after his precedent elemnt
+	-relative : positionned relatively to his default position
+	-absolute : relative to his ancestor, his z index is modified
+	- fixed : relative to the browser
+	-position atttribute
